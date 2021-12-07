@@ -1,0 +1,16 @@
+{
+  "name": "primer-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
